@@ -1,6 +1,6 @@
 ### Olá, eu sou Elaine Santos! 👋
 
-- 🌱 Estudando HTML, CSS
+- 🌱 Estudando HTML, CSS e Javascript
 
 <div align="center">
   <a href="https://github.com/elainesantos-in">
