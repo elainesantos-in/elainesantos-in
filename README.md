@@ -1,6 +1,6 @@
 ### Olá, eu sou Elaine Santos! 👋
 
-- 🌱 Estudando HTML, CSS, Javascript e Angular
+- 🌱 Full Stack Developer
 
 <div align="center">
   <a href="https://github.com/elainesantos-in">
@@ -8,7 +8,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elainesantos-in&layout=compact&langs_count=7&theme=default"/>
 </div>
   
-<div style="display: inline_block"><br>
+<div style="display:flex flex-direction:row "><br>
   <h3 align="left">Languages and Tools:</h3>
   <img align="center" alt="Elaine-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Elaine-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
