@@ -8,7 +8,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elainesantos-in&layout=compact&langs_count=7&theme=default"/>
 </div>
   
-<div style="display:flex; flex-direction:row; gap:10px; align-items:center;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <h3>Languages and Tools:</h3>
 
   <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
